@@ -1,4 +1,4 @@
 # github-demo
 This is my first Git Repository.
 <br>
-Author - Rohit Hujare
+Author - Rohit Hujare (khupire)
